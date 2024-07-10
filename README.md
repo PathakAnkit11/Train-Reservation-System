@@ -31,33 +31,5 @@ In the given project we will be developing a SQL Database which will help users 
   <img src="https://raw.githubusercontent.com/DhvanilP/OuRCTC/master/im2.png" />
 </div>
 
-#### 3. Home Page
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DhvanilP/OuRCTC/master/im3.png" />
-</div>
 
-#### 4. Select From Map
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DhvanilP/OuRCTC/master/im4.png" />
-</div>
-
-#### 5. Display Trains
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DhvanilP/OuRCTC/master/im5.png" />
-</div>
-
-#### 6. Display Available Seats
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DhvanilP/OuRCTC/master/im6.png" />
-</div>
-
-#### 7. Display Connecting Trains
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DhvanilP/OuRCTC/master/im7.png" />
-</div>
-
-#### 8. Booked Ticket History
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DhvanilP/OuRCTC/master/im8.png" />
-</div>
 
