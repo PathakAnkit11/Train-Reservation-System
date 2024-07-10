@@ -1,5 +1,3 @@
-# Pseudo-RCTC
-
 ## Introduction
 
 The Indian Railways (IR) carries about 5.5 lakhs passengers in reserved accommodation every day. The Computerised Passenger Reservation System (PRS) facilitates the booking and cancellation of tickets from any of the 4000 terminals (i.e. PRS booking window all over the countries). These tickets can be booked or cancelled for journeys commencing in any part of India and ending in any other part, with travel time as long as 72 hours and distance up to several thousand kilometres.
@@ -63,11 +61,3 @@ In the given project we will be developing a SQL Database which will help users 
   <img src="https://raw.githubusercontent.com/DhvanilP/OuRCTC/master/im8.png" />
 </div>
 
-
-
-## Team Members
-
-* [Suyash Ghuge](https://github.com/suyash0103), 16IT114
-* [Nishant Kumar](https://github.com/NishantKr97),16IT123
-* [Shreyas Shankar](https://github.com/shrey920), 16IT138
-* [Dhvanil Parikh](https://github.com/DhvanilP), 16IT217
